@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python(Intermediate) | C(basic) | Java(basic)
-- 🔧 &nbsp; Visual Studio code | Git
+- 💻 &nbsp; Python(Intermediate) | Kotlin | Jetpack Compose
+- 🔧 &nbsp; Visual Studio code | Android Studio
 - 🖥 &nbsp; Adobe Photoshop(basic) | Davinci Resolve(basic)
 
 <br>
