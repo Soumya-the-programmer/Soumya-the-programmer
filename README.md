@@ -3,9 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. 
+💻 My Passion Areas:
+
+- Python Programming 🐍
+- Android Development 📱
+  - Jetpack Compose 📲
+  - Kotlin ☕
+  - Android Studio 🛠️
 
 <h3>🛠 Tech Stack</h3>
 
