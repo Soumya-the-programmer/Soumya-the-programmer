@@ -3,15 +3,18 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 ### 👨🏻‍💻 About Me 
-💡 Passionate about **Machine Learning**, **Android Development**, **Tkinter GUI Development**. 
+💡 Passionate about **Machine Learning** 🤖, **Android Development** 📱, **Tkinter GUI Development** 🖥️. 
 🎯 Currently exploring **ML Model Building**, **Feature Engineering.**  
 
 ---
 
 ### 💻 **Tech Stack**
 🔹 **Programming:** Python 🐍 | Kotlin ☕  
+
 🔹 **Machine Learning:** Scikit-learn 🤖 | NumPy | pandas | Matplotlib
+
 🔹 **Android:** Jetpack Compose 📲 | Android Studio 🛠️  
+
 🔹 **Tools:** VS Code | Jupyter Notebook | Adobe Photoshop 🎨 (Basic) | Davinci Resolve
 
 ---
